@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147319446619",
+    "project_id": "dam-crud-u3-practica2",
+    "storage_bucket": "dam-crud-u3-practica2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147319446619:android:4c36767a5e81bad004737e",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u3_practica2_crudfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmklUMIBxfFlAj8s6aDcI6ymEZPETQGzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
